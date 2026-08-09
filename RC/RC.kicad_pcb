@@ -14247,7 +14247,7 @@
 			)
 		)
 	)
-	(gr_text "J11 3V3-SAFE IMU ONLY"
+	(gr_text "J11 3V3 IMU "
 		(at 108.5 147 0)
 		(layer "F.SilkS")
 		(uuid "48d6047b-c2e5-412c-8cfc-9e0ec47f8113")
